@@ -1,0 +1,7 @@
+.background-image {
+    position: relative;
+    height: 400px; /* 1/3 de la altura de la pantalla */
+    background-image: url(./musica.jpg) ;
+    background-size: cover;
+    background-position: center;
+  }
