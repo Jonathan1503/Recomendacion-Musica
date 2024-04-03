@@ -1,0 +1,79 @@
+[{
+    "model": "api.Usuario",
+    "pk": 1,
+    "fields": {
+        "userid": "user_000003",
+        "nombre": "usuario 3",
+        "correo": "usuario3@hotmail.com",
+        "password": "123",
+        "ultimas": [
+            "Daftendirekt",
+            "Once Upon Your Dead Body",
+            "Me And The Moon",
+            "Only Ashes",
+            "Down"
+        ],
+        "recomendaciones": {
+            "Daftendirekt": [
+                "Daftendirekt",
+                "Burnin'",
+                "Rollin' & Scratchin'",
+                "I'M Slowly Turning Into You",
+                "Catch Hell Blues",
+                "A Martyr For My Love For You",
+                "Funk Ad",
+                "Indo Silver Club",
+                "Fresh",
+                "Adrift"
+            ],
+            "Once Upon Your Dead Body": [
+                "Once Upon Your Dead Body",
+                "Goodbye, Goodnight",
+                "Cute Without The 'E' (Cut From The Team)",
+                "Embers And Envelopes",
+                "The Best Of Me",
+                "Everyday'S Forecast",
+                "Apollo 3-1-5",
+                "Those Days You Felt Alive",
+                "Daddy Warbux",
+                "Yeah, No... I Know..."
+            ],
+            "Me And The Moon": [
+                "Me And The Moon",
+                "Holiday From Real",
+                "I Want To Save You",
+                "If You C Jordan",
+                "The Astronaut",
+                "The Mixed Tape",
+                "Ruthless",
+                "Rescued",
+                "Bruised",
+                "21 And Invincible"
+            ],
+            "Only Ashes": [
+                "Only Ashes",
+                "A Day Late",
+                "Learning To Fall",
+                "Stationary Stationery",
+                "Dance Hall Drug",
+                "As You Sleep",
+                "Never Take Friendship Personal",
+                "The Feel Good Drag",
+                "The Runaways",
+                "Time & Confusion"
+            ],
+            "Down": [
+                "Down",
+                "Intro",
+                "Bones",
+                "Polaris",
+                "I'M Alive",
+                "Drive",
+                "Holiday From Real",
+                "Kill The Messenger",
+                "If You C Jordan",
+                "I Want To Save You"
+            ]
+        }
+    }
+}]
